@@ -26,7 +26,6 @@ if radius < 50.0 {
         radius = 2.0;
     }
 }
-
 ```
 
 TODO Add another example
